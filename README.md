@@ -1,3 +1,3 @@
 # amit
 this is my first repository.
-i trying to my best.
+i trying to my best.(amit)
